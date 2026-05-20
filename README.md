@@ -18,13 +18,6 @@ pip install -r requirements.txt
 python train_phase.py --data_dir /path/to/data --num_shot 10   # 5% labeled; --num_shot 3 for 1.5%
 ```
 
-Expected data layout under `--data_dir`:
-
-```
-HSI/HSI/NTIRE/{rgb,872hsi}                   # source (labeled)
-HSI/HSI/Hyper-Skin(RGB,VIS)/{RGB_CIE,VIS}    # target (rgb, hsi)
-```
-
 ## Layout
 
 ```
