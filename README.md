@@ -1,5 +1,7 @@
 # PHASE — Physiology-Aware Hyperspectral Reconstruction
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Object-to-human hyperspectral (HSI) reconstruction via semi-supervised domain
 adaptation, built on a Mean-Teacher with two
 physiological components:
@@ -37,12 +39,3 @@ Download the datasets and place them under `hsiData/`:
 - **Hyper-Skin**: https://github.com/hyperspectral-skin/Hyper-Skin-2023
 - **Choledoch**: https://www.kaggle.com/datasets/ethelzq/multidimensional-choledoch-database
 - **HeiPorSPECTRAL**: https://www.heiporspectral.org/
-
-Expected structure:
-
-```
-hsiData/
-├── ntire2020/
-├── ntire2022/
-└── hyperskin/
-```
