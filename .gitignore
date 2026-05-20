@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Experiment artifacts
+smoke_test/
+saved-models/
+log/
+reconstructed-hsi/
+*.pt
+*.pth
+*.log
+
+# Data
+data/
+*.mat
+*.h5
