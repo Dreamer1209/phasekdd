@@ -35,8 +35,8 @@ Download the datasets and place them under `hsiData/`:
 - **NTIRE 2020**: https://github.com/boazarad/NTIRE2020_spectral
 - **NTIRE 2022**: https://github.com/boazarad/ARAD_1K
 - **Hyper-Skin**: https://github.com/hyperspectral-skin/Hyper-Skin-2023
-- **Choledoch** (downstream): https://www.kaggle.com/datasets/ethelzq/multidimensional-choledoch-database
-- **HeiPorSPECTRAL** (downstream): https://www.heiporspectral.org/
+- **Choledoch**: https://www.kaggle.com/datasets/ethelzq/multidimensional-choledoch-database
+- **HeiPorSPECTRAL**: https://www.heiporspectral.org/
 
 Expected structure:
 
