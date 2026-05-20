@@ -32,10 +32,16 @@ models/reconstruction/MST_Plus_Plus.py  # backbone
 
 Download the datasets and place them under `hsiData/`:
 
-- **NTIRE 2020**: [download link]
-- **NTIRE 2022**: [download link]
-- **Hyper-Skin**: [download link]
-- **Choledoch / HeiPorSPECTRAL** (downstream): [download links]
+- **NTIRE 2020** (ARAD, spectral reconstruction from RGB): challenge code & data instructions at
+  [boazarad/NTIRE2020_spectral](https://github.com/boazarad/NTIRE2020_spectral)
+  (data via the CodaLab competition linked there).
+- **NTIRE 2022** (ARAD_1K): [boazarad/ARAD_1K](https://github.com/boazarad/ARAD_1K) ·
+  CodaLab: <https://codalab.lisn.upsaclay.fr/competitions/721>
+- **Hyper-Skin**: [hyperspectral-skin/Hyper-Skin-2023](https://github.com/hyperspectral-skin/Hyper-Skin-2023)
+  (request access via the EULA in the repo).
+- **Choledoch** (downstream): [Kaggle — Multidimensional Choledoch Database](https://www.kaggle.com/datasets/ethelzq/multidimensional-choledoch-database)
+- **HeiPorSPECTRAL** (downstream): <https://www.heiporspectral.org/> ·
+  Zenodo: <https://doi.org/10.5281/zenodo.7737674>
 
 Expected structure:
 
