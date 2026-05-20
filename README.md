@@ -27,3 +27,21 @@ helpers/{utils,metrics}.py              # logging, SSIM/SAM/PSNR
 hsiData/                                # NTIRE / Hyper-Skin datasets
 models/reconstruction/MST_Plus_Plus.py  # backbone
 ```
+
+## Datasets
+
+Download the datasets and place them under `hsiData/`:
+
+- **NTIRE 2020**: [download link]
+- **NTIRE 2022**: [download link]
+- **Hyper-Skin**: [download link]
+- **Choledoch / HeiPorSPECTRAL** (downstream): [download links]
+
+Expected structure:
+
+```
+hsiData/
+├── ntire2020/
+├── ntire2022/
+└── hyperskin/
+```
